@@ -1,0 +1,39 @@
+#catamyst-title
+{
+    font-size: 60px;
+    margin: 0%;
+    margin-top: 2%;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    color:rgb(67, 192, 152);
+}
+#catamyst-left{
+    font-size: 15px;
+    width: 45%;
+    position: relative;
+    margin-left: 2%;
+    color: white;
+}
+#catamyst-right{
+    width: 45%;
+    margin-right: 10px;
+    float: right;
+    align-content: right;
+}
+#catamyst-creds{
+    font-size: small;
+    width: 100%;
+    position: relative;
+    text-align: center;
+    color:rgb(215, 215, 215);
+}
+#catamyst-steam
+{
+    scale: 90%;
+    margin-top: 2%;
+    width:50%;
+    height:40%;
+    position: relative;
+    border: none;
+}

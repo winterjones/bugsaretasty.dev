@@ -1,0 +1,17 @@
+[
+    {
+        "id":0,
+        "notice":"Test",
+        "url":""
+    },
+    {
+        "id":1,
+        "notice":"Catamyst 1.1 is here! I hope you enjoy everything this update has to offer :D",
+        "url":"https://bsky.app/profile/bugsaretasty.dev"
+    },
+        {
+        "id":2,
+        "notice":"v1.1.2 is out now - check out the new Options Menu or have fun messing around with the new UI animations!",
+        "url":"https://bsky.app/profile/bugsaretasty.dev"
+    }
+]

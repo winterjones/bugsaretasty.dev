@@ -1,0 +1,24 @@
+---
+import Layout from "../../layouts/Layout.astro"
+import MainContainer from '../../components/MainContainer.astro';
+import "../../styles/catamyst.css";
+---
+<Layout title ="Catamyst">
+    <MainContainer slot = "MainContainer">
+        <p id="catamyst-title">Catamyst</p>
+        <iframe src="https://store.steampowered.com/widget/2959740/"id="catamyst-steam"/>
+        <div id="catamyst-left">
+            <p>Catamyst is a self-published indie title released in 2024.</p>
+            <p>In this bullet-heaven action roguelike you're tasked with creating potions and enchantments to take on waves of enemies.</p>
+
+        </div>
+        <div id="catamyst-right">
+
+        </div>
+         <div id="catamyst-creds">
+            <br/>
+            <p>- Code, pixel art and project management by myself.</p>
+            <p>- Audio & Sound Design by <a id="link" href="https://youtube.com/@cochu" target="_blank" rel="noopener noreferrer">Cochu</a>.</p>
+        </div>
+    </MainContainer>
+</Layout>

@@ -1,0 +1,49 @@
+.main-sidebar{
+    width: 14vw;
+    height: 80vh;
+    position: fixed;
+    top: 20vh;
+    left: 1vw;
+}
+.side-box
+{
+    height: 15%;
+    width: 100%;
+    padding: 1.5vh;
+    position: static;
+    font-size: 20px;
+    margin-bottom: 1vh;
+    color: #ececece3;;
+    background-color: #4c3b5d;
+    text-align: justify;
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style: double;
+}
+#sideimage
+{
+    height: 50%;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+
+} 
+.active{
+    border-width: 2px;
+    border-color: rgb(168, 255, 142);
+    border-style: double;
+}
+#catamyst{
+    background-image: url("../images/catamystbanner.png");
+    image-rendering: optimizeSpeed;
+    background-position: 35%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#catamyst:hover{
+    background-image: url("../images/catamystbanner_alt.png");
+    cursor: pointer;
+    border-width: 1px;
+    border-color: rgb(132, 74, 158);
+    border-style: double;
+}
