@@ -5,5 +5,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
     prefetch: true,
     base: "/bugsaretasty.dev",
-    site: "winterjones.github.io"
+    site: "http://bugsaretasty.dev"
 });
